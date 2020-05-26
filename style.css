@@ -1,12 +1,4 @@
-/* body{
-  background-color: blue;
-  background-image: url('image.jpg');
-  background-size: cover;
+.flex-container {
+  display: flex;
+  flex-direction: row;
 }
-
-#title{
-  color: white;
-}
-#description{
-  color: white;
-} */
